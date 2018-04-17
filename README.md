@@ -1,8 +1,11 @@
 # TemperatureCalc_console
-Calculate inserted data temperature between next systems: Celsius, Kalvin and Fahrenheit
+Application helps to calculate temperature between 3 different temperature systems (Celsius, Kalvin and Fahrenheit)
 
-First of all system propose insert a number , after propose choose the temperature system.
-After all chooses have done - system calculates and show - what is equivalent in two anothers 
-temperature systems.
+How to use:
+1) Launch application
+2) In console insert number of temperature
+3) Click "Enter"
+4) In console insert a type of temperature
+5) Click "Enter"
 
-Result shows on console.
+After all this steps you'll see a result on console.
